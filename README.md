@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anton. Currently learning Javascript and looking for a job as trainee/junior front-end developer. Below you can see my certificates:
+I'm Anton. Currently learning Javascript and looking for a job as a trainee/junior front-end developer. Below you can see my certificates:
 
 ![image](https://user-images.githubusercontent.com/26392646/130804455-251ee6fb-b59f-42e3-8154-b733506b164f.png)
 
